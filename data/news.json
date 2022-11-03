@@ -307,5 +307,80 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
       "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
     },
+
+    {
+      "_id": "d1",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "High-level programming language",
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+      "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+
+    {
+      "_id": "d2",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "High-level programming language",
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+      "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+
+    {
+      "_id": "d3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "High-level programming language",
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+      "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+
+    {
+      "_id": "d4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "High-level programming language",
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+      "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+
+    {
+      "_id": "d5",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "High-level programming language",
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+      "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
    
   ]
