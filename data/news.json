@@ -231,12 +231,81 @@
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
       "image_url": "https://www.w3schools.com/css/img_selector.gif",
       "details": "The selector points to the HTML element you want to style. The declaration block contains one or more declarations separated by semicolons. Each declaration includes a CSS property name and a value, separated by a colon. Multiple CSS declarations are seaparated with semicolons, and declaration blocks are surrounded by curly braces."
-    }
+    },
     
-   
+    {
+      "_id": "b1",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Bootstrap is a free and open-source CSS framework ",
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
+      "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+    },
     
-   
+
+   {
+      "_id": "b2",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Bootstrap is a free and open-source CSS framework ",
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
+      "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+    },
+
+    {
+      "_id": "b3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Bootstrap is a free and open-source CSS framework ",
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
+      "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+    },
     
-    
+    {
+      "_id": "b4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Bootstrap is a free and open-source CSS framework ",
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
+      "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+    },
+    {
+      "_id": "b5",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Bootstrap is a free and open-source CSS framework ",
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
+      "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+    },
    
   ]
