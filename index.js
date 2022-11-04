@@ -37,6 +37,8 @@ app.get('/news/:id', (req, res) => {
     res.send(selectedNews);
 });
 
+
 app.listen(port, () => {
     console.log('Max Larn', port);
 })
+
